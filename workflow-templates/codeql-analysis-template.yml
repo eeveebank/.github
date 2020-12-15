@@ -1,9 +1,9 @@
-name: "Static Code Analysis (CodeQL)"
+name: "Template - Static Code Analysis (CodeQL)"
 
 on:
   push:
     branches:
-      - master
+      - workflow_templates
   schedule:
     - cron: '0 0 * * 0'
 
