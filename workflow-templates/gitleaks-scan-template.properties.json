@@ -1,0 +1,9 @@
+{
+  "name": "Gitleaks",
+  "description": "Detect Secrets in Source Code.",
+  "iconName": "gitleaks",
+  "categories": [
+    "HCL",
+    "Dockerfile"
+  ]
+}
