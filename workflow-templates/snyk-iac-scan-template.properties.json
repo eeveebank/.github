@@ -1,0 +1,9 @@
+{
+  "name": "Snyk Infrastructure as Code",
+  "description": "Snyk Infrastructure as Code scanning.",
+  "iconName": "snyk",
+  "categories": [
+    "HCL",
+    "Dockerfile"
+  ]
+}
